@@ -10,6 +10,7 @@ import UIKit
 
 class FoodFinderTableViewController: UITableViewController {
     
+    
     var foodStoreNames = ["늘해랑","아딸","번개반점","왕짜장","토마토도시락","홍콩반점"]
     var foodStoreImages = ["01","02","03","04","05","06"]
     var foodStoreAddress = ["부산시 진구 양정동","부산시 진구 양정동","부산시 진구 양정동","부산시 진구 양정동","부산시 진구 양정동","부산시 진구 양정동"]
